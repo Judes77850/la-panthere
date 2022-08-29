@@ -704,6 +704,11 @@ p {
     margin: auto auto auto auto;
 }
 
+.white22{
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
 h2 {
     font-size: 22px;
     line-height: 1.4em;
@@ -736,6 +741,10 @@ h4 {
 }
 
 .white {
+    color: #FFFFFF!important;
+}
+
+.white22{
     color: #FFFFFF!important;
 }
 
