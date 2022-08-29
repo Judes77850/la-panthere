@@ -704,9 +704,13 @@ p {
     margin: auto auto auto auto;
 }
 
+.fa{
+    color: #333333 !important;
+}
+
 .white22{
     font-size: 20px;
-    color: #FFFFFF;
+    color: #333333 !important;
 }
 
 h2 {
@@ -744,9 +748,7 @@ h4 {
     color: #FFFFFF!important;
 }
 
-.white22{
-    color: #FFFFFF!important;
-}
+
 
 .portfolio-thumb {
     margin-bottom: 24px;
