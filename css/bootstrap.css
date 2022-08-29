@@ -86,6 +86,11 @@ small {
     font-size: 80%
 }
 
+.white-font{
+    color: white;
+    font-size: 50px;
+}
+
 sub,
 sup {
     position: relative;
